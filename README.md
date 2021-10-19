@@ -126,3 +126,7 @@ GET /search?_page=7&_limit=20
 ```
 
 By default ALL matching results are returned
+
+# note
+
+Took me about 3 - 4  hours to complete, with more time I should add Typescript to improve the types and avoid posible error, Unit Testing, and a better UI/UX.
