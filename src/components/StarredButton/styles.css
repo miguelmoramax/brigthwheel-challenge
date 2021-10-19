@@ -1,0 +1,13 @@
+.starred {
+  width: 2rem !important;
+  height: 2rem !important;
+}
+.starred:hover {
+  cursor: pointer;
+}
+.on {
+  color: gold;
+}
+.off {
+  color: #ccc;
+}
